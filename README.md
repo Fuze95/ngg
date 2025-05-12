@@ -40,7 +40,7 @@ NumberGuessingGame/
 2. Compile the source files:
 
 ```bash
-javac -d bin src/numberguessinggame/*.java
+javac -d bin src/*.java
 ```
 
 3. Run the game:
